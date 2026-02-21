@@ -2,7 +2,7 @@
 
 A responsive and modern login page interface built using HTML and CSS.
 
-![Project Preview](./assets/preview.png)
+![Project Preview](./preview.png)
 
 ## 🚀 Technologies
 - HTML5
